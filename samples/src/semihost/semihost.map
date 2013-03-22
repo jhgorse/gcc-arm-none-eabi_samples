@@ -1,0 +1,919 @@
+Archive member included because of file (symbol)
+
+/Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-__atexit2.o)
+                              /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/rdimon-crt0.o (__register_exitproc)
+/Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-exit.o)
+                              /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/rdimon-crt0.o (exit)
+/Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-fini.o)
+                              /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/rdimon-crt0.o (__libc_fini_array)
+/Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-impure.o)
+                              /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-exit.o) (_global_impure_ptr)
+/Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-init.o)
+                              /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/rdimon-crt0.o (__libc_init_array)
+/Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-memset.o)
+                              /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/rdimon-crt0.o (memset)
+/Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-printf.o)
+                              /var/folders/9p/g7b6_1dj0nqcnns28dc_lp_w0000gn/T//ccJBl0Xp.o (printf)
+/Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-putchar.o)
+                              /var/folders/9p/g7b6_1dj0nqcnns28dc_lp_w0000gn/T//ccJBl0Xp.o (putchar)
+/Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-vfprintf.o)
+                              /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-printf.o) (_vfprintf_r)
+/Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-vfprintf_i.o)
+                              /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-vfprintf.o) (_printf_i)
+/Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-wbuf.o)
+                              /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-vfprintf.o) (__swbuf_r)
+/Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-wsetup.o)
+                              /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-vfprintf.o) (__swsetup_r)
+/Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-fflush.o)
+                              /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-wbuf.o) (_fflush_r)
+/Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-findfp.o)
+                              /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-printf.o) (__sinit)
+/Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-fputwc.o)
+                              /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-vfprintf.o) (_fputwc_r)
+/Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-freer.o)
+                              /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-wsetup.o) (_free_r)
+/Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-fvwrite.o)
+                              /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-vfprintf.o) (__sfvwrite_r)
+/Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-fwalk.o)
+                              /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-findfp.o) (_fwalk)
+/Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-locale.o)
+                              /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-fputwc.o) (__locale_mb_cur_max)
+/Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-makebuf.o)
+                              /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-wsetup.o) (__smakebuf_r)
+/Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-mallocr.o)
+                              /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-findfp.o) (_malloc_r)
+/Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-memchr.o)
+                              /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-vfprintf.o) (memchr)
+/Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-memcpy.o)
+                              /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-fvwrite.o) (memcpy)
+/Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-memmove.o)
+                              /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-fvwrite.o) (memmove)
+/Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-putc.o)
+                              /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-putchar.o) (_putc_r)
+/Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-reallocr.o)
+                              /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-fvwrite.o) (_realloc_r)
+/Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-sbrkr.o)
+                              /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-mallocr.o) (_sbrk_r)
+/Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-stdio.o)
+                              /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-findfp.o) (__sread)
+/Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-strcmp.o)
+                              /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-locale.o) (strcmp)
+/Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-strlen.o)
+                              /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-vfprintf_i.o) (strlen)
+/Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-wcrtomb.o)
+                              /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-fputwc.o) (_wcrtomb_r)
+/Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-wctomb_r.o)
+                              /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-wcrtomb.o) (__wctomb)
+/Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-writer.o)
+                              /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-stdio.o) (_write_r)
+/Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-closer.o)
+                              /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-stdio.o) (_close_r)
+/Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-fstatr.o)
+                              /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-makebuf.o) (_fstat_r)
+/Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-isattyr.o)
+                              /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-makebuf.o) (_isatty_r)
+/Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-lseekr.o)
+                              /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-stdio.o) (_lseek_r)
+/Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-msizer.o)
+                              /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-reallocr.o) (_malloc_usable_size_r)
+/Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-readr.o)
+                              /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-stdio.o) (_read_r)
+/Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-reent.o)
+                              /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-sbrkr.o) (errno)
+/Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/librdimon.a(rdimon-syscalls.o)
+                              /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/rdimon-crt0.o (initialise_monitor_handles)
+/Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/librdimon.a(rdimon-_exit.o)
+                              /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-exit.o) (_exit)
+/Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/librdimon.a(rdimon-_kill.o)
+                              /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/librdimon.a(rdimon-_exit.o) (_kill)
+/Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-errno.o)
+                              /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/librdimon.a(rdimon-syscalls.o) (__errno)
+
+Allocating common symbols
+Common symbol       size              file
+
+errno               0x4               /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-reent.o)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crti.o
+ .data          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crti.o
+ .bss           0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crti.o
+ .data          0x0000000000000000        0x4 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtbegin.o
+ .bss           0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/rdimon-crt0.o
+ .ARM.extab     0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/rdimon-crt0.o
+ .group         0x0000000000000000        0x8 /var/folders/9p/g7b6_1dj0nqcnns28dc_lp_w0000gn/T//ccJBl0Xp.o
+ .group         0x0000000000000000        0x8 /var/folders/9p/g7b6_1dj0nqcnns28dc_lp_w0000gn/T//ccJBl0Xp.o
+ .group         0x0000000000000000        0x8 /var/folders/9p/g7b6_1dj0nqcnns28dc_lp_w0000gn/T//ccJBl0Xp.o
+ .group         0x0000000000000000        0x8 /var/folders/9p/g7b6_1dj0nqcnns28dc_lp_w0000gn/T//ccJBl0Xp.o
+ .group         0x0000000000000000        0x8 /var/folders/9p/g7b6_1dj0nqcnns28dc_lp_w0000gn/T//ccJBl0Xp.o
+ .group         0x0000000000000000        0x8 /var/folders/9p/g7b6_1dj0nqcnns28dc_lp_w0000gn/T//ccJBl0Xp.o
+ .group         0x0000000000000000        0x8 /var/folders/9p/g7b6_1dj0nqcnns28dc_lp_w0000gn/T//ccJBl0Xp.o
+ .group         0x0000000000000000        0x8 /var/folders/9p/g7b6_1dj0nqcnns28dc_lp_w0000gn/T//ccJBl0Xp.o
+ .group         0x0000000000000000        0x8 /var/folders/9p/g7b6_1dj0nqcnns28dc_lp_w0000gn/T//ccJBl0Xp.o
+ .group         0x0000000000000000        0x8 /var/folders/9p/g7b6_1dj0nqcnns28dc_lp_w0000gn/T//ccJBl0Xp.o
+ .group         0x0000000000000000        0x8 /var/folders/9p/g7b6_1dj0nqcnns28dc_lp_w0000gn/T//ccJBl0Xp.o
+ .group         0x0000000000000000        0x8 /var/folders/9p/g7b6_1dj0nqcnns28dc_lp_w0000gn/T//ccJBl0Xp.o
+ .group         0x0000000000000000        0x8 /var/folders/9p/g7b6_1dj0nqcnns28dc_lp_w0000gn/T//ccJBl0Xp.o
+ .group         0x0000000000000000        0x8 /var/folders/9p/g7b6_1dj0nqcnns28dc_lp_w0000gn/T//ccJBl0Xp.o
+ .group         0x0000000000000000        0x8 /var/folders/9p/g7b6_1dj0nqcnns28dc_lp_w0000gn/T//ccJBl0Xp.o
+ .group         0x0000000000000000        0x8 /var/folders/9p/g7b6_1dj0nqcnns28dc_lp_w0000gn/T//ccJBl0Xp.o
+ .group         0x0000000000000000        0x8 /var/folders/9p/g7b6_1dj0nqcnns28dc_lp_w0000gn/T//ccJBl0Xp.o
+ .text          0x0000000000000000        0x0 /var/folders/9p/g7b6_1dj0nqcnns28dc_lp_w0000gn/T//ccJBl0Xp.o
+ .data          0x0000000000000000        0x0 /var/folders/9p/g7b6_1dj0nqcnns28dc_lp_w0000gn/T//ccJBl0Xp.o
+ .bss           0x0000000000000000        0x0 /var/folders/9p/g7b6_1dj0nqcnns28dc_lp_w0000gn/T//ccJBl0Xp.o
+ .data          0x0000000000000000        0x0 /var/folders/9p/g7b6_1dj0nqcnns28dc_lp_w0000gn/T//ccC3HMPH.o
+ .bss           0x0000000000000000        0x0 /var/folders/9p/g7b6_1dj0nqcnns28dc_lp_w0000gn/T//ccC3HMPH.o
+ .text          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-__atexit2.o)
+ .data          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-__atexit2.o)
+ .bss           0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-__atexit2.o)
+ .text          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-exit.o)
+ .data          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-exit.o)
+ .bss           0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-exit.o)
+ .text          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-fini.o)
+ .data          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-fini.o)
+ .bss           0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-fini.o)
+ .text          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-impure.o)
+ .text          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-init.o)
+ .data          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-init.o)
+ .bss           0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-init.o)
+ .text          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-memset.o)
+ .text          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-printf.o)
+ .data          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-printf.o)
+ .bss           0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-printf.o)
+ .text._printf_r
+                0x0000000000000000       0x26 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-printf.o)
+ .text          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-putchar.o)
+ .data          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-putchar.o)
+ .bss           0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-putchar.o)
+ .text._putchar_r
+                0x0000000000000000       0x1e /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-putchar.o)
+ .text          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-vfprintf.o)
+ .data          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-vfprintf.o)
+ .bss           0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-vfprintf.o)
+ .text.__sprint_r
+                0x0000000000000000       0x68 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-vfprintf.o)
+ .text.vfprintf
+                0x0000000000000000       0x1c /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-vfprintf.o)
+ .text          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-vfprintf_i.o)
+ .data          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-vfprintf_i.o)
+ .bss           0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-vfprintf_i.o)
+ .text          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-wbuf.o)
+ .data          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-wbuf.o)
+ .bss           0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-wbuf.o)
+ .text.__swbuf  0x0000000000000000       0x14 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-wbuf.o)
+ .text          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-wsetup.o)
+ .data          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-wsetup.o)
+ .bss           0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-wsetup.o)
+ .text          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-fflush.o)
+ .data          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-fflush.o)
+ .bss           0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-fflush.o)
+ .text.fflush   0x0000000000000000       0x24 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-fflush.o)
+ .text          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-findfp.o)
+ .data          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-findfp.o)
+ .bss           0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-findfp.o)
+ .text.__fp_lock
+                0x0000000000000000        0x4 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-findfp.o)
+ .text.__fp_unlock
+                0x0000000000000000        0x4 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-findfp.o)
+ .text._cleanup
+                0x0000000000000000        0xc /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-findfp.o)
+ .text.__sfp_lock_acquire
+                0x0000000000000000        0x2 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-findfp.o)
+ .text.__sfp_lock_release
+                0x0000000000000000        0x2 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-findfp.o)
+ .text.__sinit_lock_acquire
+                0x0000000000000000        0x2 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-findfp.o)
+ .text.__sinit_lock_release
+                0x0000000000000000        0x2 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-findfp.o)
+ .text.__fp_lock_all
+                0x0000000000000000       0x14 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-findfp.o)
+ .text.__fp_unlock_all
+                0x0000000000000000       0x14 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-findfp.o)
+ .text          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-fputwc.o)
+ .data          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-fputwc.o)
+ .bss           0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-fputwc.o)
+ .text._fputwc_r
+                0x0000000000000000       0xc0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-fputwc.o)
+ .text.fputwc   0x0000000000000000       0x58 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-fputwc.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-fputwc.o)
+ .debug_frame   0x0000000000000000       0x54 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-fputwc.o)
+ .text          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-freer.o)
+ .data          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-freer.o)
+ .bss           0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-freer.o)
+ .text          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-fvwrite.o)
+ .data          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-fvwrite.o)
+ .bss           0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-fvwrite.o)
+ .text.__sfvwrite_r
+                0x0000000000000000      0x2b6 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-fvwrite.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-fvwrite.o)
+ .debug_frame   0x0000000000000000       0x3c /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-fvwrite.o)
+ .text          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-fwalk.o)
+ .data          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-fwalk.o)
+ .bss           0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-fwalk.o)
+ .text._fwalk   0x0000000000000000       0x40 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-fwalk.o)
+ .text._fwalk_reent
+                0x0000000000000000       0x44 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-fwalk.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-fwalk.o)
+ .debug_frame   0x0000000000000000       0x54 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-fwalk.o)
+ .text          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-locale.o)
+ .data          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-locale.o)
+ .bss           0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-locale.o)
+ .text._setlocale_r
+                0x0000000000000000       0x44 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-locale.o)
+ .text.__locale_charset
+                0x0000000000000000        0x8 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-locale.o)
+ .text.__locale_mb_cur_max
+                0x0000000000000000        0xc /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-locale.o)
+ .text.__locale_msgcharset
+                0x0000000000000000        0x8 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-locale.o)
+ .text.__locale_cjk_lang
+                0x0000000000000000        0x4 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-locale.o)
+ .text._localeconv_r
+                0x0000000000000000        0x8 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-locale.o)
+ .text.setlocale
+                0x0000000000000000       0x14 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-locale.o)
+ .text.localeconv
+                0x0000000000000000        0x8 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-locale.o)
+ .data.lc_message_charset
+                0x0000000000000000       0x20 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-locale.o)
+ .bss._PathLocale
+                0x0000000000000000        0x4 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-locale.o)
+ .bss.__nlocale_changed
+                0x0000000000000000        0x4 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-locale.o)
+ .bss.__mlocale_changed
+                0x0000000000000000        0x4 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-locale.o)
+ .data.lconv    0x0000000000000000       0x38 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-locale.o)
+ .rodata.str1.1
+                0x0000000000000000        0xb /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-locale.o)
+ .data.lc_ctype_charset
+                0x0000000000000000       0x20 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-locale.o)
+ .data.__mb_cur_max
+                0x0000000000000000        0x4 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-locale.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-locale.o)
+ .debug_frame   0x0000000000000000       0x98 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-locale.o)
+ .text          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-makebuf.o)
+ .data          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-makebuf.o)
+ .bss           0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-makebuf.o)
+ .text          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-mallocr.o)
+ .data          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-mallocr.o)
+ .bss           0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-mallocr.o)
+ .text          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-memchr.o)
+ .data          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-memchr.o)
+ .bss           0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-memchr.o)
+ .text          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-memcpy.o)
+ .data          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-memcpy.o)
+ .bss           0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-memcpy.o)
+ .text.memcpy   0x0000000000000000       0x12 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-memcpy.o)
+ .debug_frame   0x0000000000000000       0x28 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-memcpy.o)
+ .text          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-memmove.o)
+ .data          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-memmove.o)
+ .bss           0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-memmove.o)
+ .text.memmove  0x0000000000000000       0x34 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-memmove.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-memmove.o)
+ .debug_frame   0x0000000000000000       0x2c /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-memmove.o)
+ .text          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-putc.o)
+ .data          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-putc.o)
+ .bss           0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-putc.o)
+ .text.putc     0x0000000000000000       0x14 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-putc.o)
+ .text          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-reallocr.o)
+ .data          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-reallocr.o)
+ .bss           0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-reallocr.o)
+ .text._realloc_r
+                0x0000000000000000       0x48 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-reallocr.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-reallocr.o)
+ .debug_frame   0x0000000000000000       0x30 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-reallocr.o)
+ .text          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-sbrkr.o)
+ .data          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-sbrkr.o)
+ .bss           0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-sbrkr.o)
+ .text          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-stdio.o)
+ .data          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-stdio.o)
+ .bss           0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-stdio.o)
+ .text.__seofread
+                0x0000000000000000        0x4 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-stdio.o)
+ .text          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-strcmp.o)
+ .data          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-strcmp.o)
+ .bss           0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-strcmp.o)
+ .text.strcmp   0x0000000000000000       0x16 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-strcmp.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-strcmp.o)
+ .debug_frame   0x0000000000000000       0x20 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-strcmp.o)
+ .text          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-strlen.o)
+ .data          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-strlen.o)
+ .bss           0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-strlen.o)
+ .text          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-wcrtomb.o)
+ .data          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-wcrtomb.o)
+ .bss           0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-wcrtomb.o)
+ .text._wcrtomb_r
+                0x0000000000000000       0x4c /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-wcrtomb.o)
+ .text.wcrtomb  0x0000000000000000       0x1c /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-wcrtomb.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-wcrtomb.o)
+ .debug_frame   0x0000000000000000       0x50 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-wcrtomb.o)
+ .text          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-wctomb_r.o)
+ .data          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-wctomb_r.o)
+ .bss           0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-wctomb_r.o)
+ .text.__ascii_wctomb
+                0x0000000000000000       0x1a /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-wctomb_r.o)
+ .text._wctomb_r
+                0x0000000000000000       0x2c /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-wctomb_r.o)
+ .data.__wctomb
+                0x0000000000000000        0x4 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-wctomb_r.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-wctomb_r.o)
+ .debug_frame   0x0000000000000000       0x44 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-wctomb_r.o)
+ .text          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-writer.o)
+ .data          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-writer.o)
+ .bss           0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-writer.o)
+ .text          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-closer.o)
+ .data          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-closer.o)
+ .bss           0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-closer.o)
+ .text          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-fstatr.o)
+ .data          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-fstatr.o)
+ .bss           0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-fstatr.o)
+ .text          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-isattyr.o)
+ .data          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-isattyr.o)
+ .bss           0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-isattyr.o)
+ .text          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-lseekr.o)
+ .data          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-lseekr.o)
+ .bss           0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-lseekr.o)
+ .text          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-msizer.o)
+ .data          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-msizer.o)
+ .bss           0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-msizer.o)
+ .text._malloc_usable_size_r
+                0x0000000000000000       0x12 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-msizer.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-msizer.o)
+ .debug_frame   0x0000000000000000       0x20 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-msizer.o)
+ .text          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-readr.o)
+ .data          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-readr.o)
+ .bss           0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-readr.o)
+ .text          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-reent.o)
+ .data          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-reent.o)
+ .bss           0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x0000000000000000       0x1a /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-reent.o)
+ .text._reclaim_reent
+                0x0000000000000000       0xac /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-reent.o)
+ .text._wrapup_reent
+                0x0000000000000000       0x30 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-reent.o)
+ .text          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/librdimon.a(rdimon-syscalls.o)
+ .data          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/librdimon.a(rdimon-syscalls.o)
+ .bss           0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/librdimon.a(rdimon-syscalls.o)
+ .text._getpid  0x0000000000000000        0x4 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/librdimon.a(rdimon-syscalls.o)
+ .text._stat    0x0000000000000000       0x3c /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/librdimon.a(rdimon-syscalls.o)
+ .text._swiopen
+                0x0000000000000000       0xc4 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/librdimon.a(rdimon-syscalls.o)
+ .text._open    0x0000000000000000       0x14 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/librdimon.a(rdimon-syscalls.o)
+ .text._link    0x0000000000000000       0x10 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/librdimon.a(rdimon-syscalls.o)
+ .text._unlink  0x0000000000000000       0x2c /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/librdimon.a(rdimon-syscalls.o)
+ .text._gettimeofday
+                0x0000000000000000       0x24 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/librdimon.a(rdimon-syscalls.o)
+ .text._clock   0x0000000000000000       0x14 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/librdimon.a(rdimon-syscalls.o)
+ .text._times   0x0000000000000000       0x20 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/librdimon.a(rdimon-syscalls.o)
+ .text._system  0x0000000000000000       0x40 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/librdimon.a(rdimon-syscalls.o)
+ .text._rename  0x0000000000000000       0x38 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/librdimon.a(rdimon-syscalls.o)
+ .text          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/librdimon.a(rdimon-_exit.o)
+ .data          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/librdimon.a(rdimon-_exit.o)
+ .bss           0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/librdimon.a(rdimon-_exit.o)
+ .text          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/librdimon.a(rdimon-_kill.o)
+ .data          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/librdimon.a(rdimon-_kill.o)
+ .bss           0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/librdimon.a(rdimon-_kill.o)
+ .text          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-errno.o)
+ .data          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-errno.o)
+ .bss           0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-errno.o)
+ .text          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtend.o
+ .data          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtend.o
+ .bss           0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtend.o
+ .text          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtn.o
+ .data          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtn.o
+ .bss           0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x0000000008000000 0x0000000000020000 xr
+RAM              0x0000000020000000 0x0000000000010000 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/librdimon.a
+LOAD /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crti.o
+LOAD /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtbegin.o
+LOAD /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/rdimon-crt0.o
+LOAD /var/folders/9p/g7b6_1dj0nqcnns28dc_lp_w0000gn/T//ccJBl0Xp.o
+LOAD /var/folders/9p/g7b6_1dj0nqcnns28dc_lp_w0000gn/T//ccC3HMPH.o
+LOAD /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a
+LOAD /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a
+LOAD /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/librdimon.a
+START GROUP
+LOAD /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/libgcc.a
+LOAD /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a
+END GROUP
+LOAD /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtend.o
+LOAD /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtn.o
+
+.text           0x0000000008000000     0x153c
+ *(.isr_vector)
+ .isr_vector    0x0000000008000000       0x44 /var/folders/9p/g7b6_1dj0nqcnns28dc_lp_w0000gn/T//ccC3HMPH.o
+                0x0000000008000000                __isr_vector
+ *(.text*)
+ .text          0x0000000008000044       0x54 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtbegin.o
+ .text          0x0000000008000098       0xcc /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/rdimon-crt0.o
+                0x0000000008000098                _mainCRTStartup
+                0x0000000008000098                _start
+                0x0000000008000098                start
+ .text.startup.main
+                0x0000000008000164       0x18 /var/folders/9p/g7b6_1dj0nqcnns28dc_lp_w0000gn/T//ccJBl0Xp.o
+                0x0000000008000164                main
+ .text.SystemInit
+                0x000000000800017c        0x2 /var/folders/9p/g7b6_1dj0nqcnns28dc_lp_w0000gn/T//ccJBl0Xp.o
+                0x000000000800017c                SystemInit
+ *fill*         0x000000000800017e        0x2 00
+ .text          0x0000000008000180       0x3c /var/folders/9p/g7b6_1dj0nqcnns28dc_lp_w0000gn/T//ccC3HMPH.o
+                0x0000000008000180                Reset_Handler
+                0x00000000080001a8                NMI_Handler
+                0x00000000080001aa                HardFault_Handler
+                0x00000000080001ac                MemManage_Handler
+                0x00000000080001ae                BusFault_Handler
+                0x00000000080001b0                UsageFault_Handler
+                0x00000000080001b2                SVC_Handler
+                0x00000000080001b4                DebugMon_Handler
+                0x00000000080001b6                PendSV_Handler
+                0x00000000080001b8                SysTick_Handler
+                0x00000000080001ba                DEF_IRQHandler
+                0x00000000080001ba                Default_Handler
+ .text.__register_exitproc
+                0x00000000080001bc       0x14 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-__atexit2.o)
+                0x00000000080001bc                __register_exitproc
+ .text.exit     0x00000000080001d0       0x2c /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-exit.o)
+                0x00000000080001d0                exit
+ .text.__libc_fini_array
+                0x00000000080001fc       0x2c /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-fini.o)
+                0x00000000080001fc                __libc_fini_array
+ .text.__libc_init_array
+                0x0000000008000228       0x4c /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-init.o)
+                0x0000000008000228                __libc_init_array
+ .text.memset   0x0000000008000274       0x10 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-memset.o)
+                0x0000000008000274                memset
+ .text.printf   0x0000000008000284       0x30 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-printf.o)
+                0x0000000008000284                printf
+                0x0000000008000284                iprintf
+ .text.putchar  0x00000000080002b4       0x28 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-putchar.o)
+                0x00000000080002b4                putchar
+ .text.__sfputc_r
+                0x00000000080002dc       0x2c /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-vfprintf.o)
+                0x00000000080002dc                __sfputc_r
+ .text._vfprintf_r
+                0x0000000008000308      0x22c /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-vfprintf.o)
+                0x0000000008000308                _vfiprintf_r
+                0x0000000008000308                _vfprintf_r
+ .text._printf_common
+                0x0000000008000534       0xde /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-vfprintf_i.o)
+                0x0000000008000534                _printf_common
+ *fill*         0x0000000008000612        0x2 00
+ .text._printf_i
+                0x0000000008000614      0x248 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-vfprintf_i.o)
+                0x0000000008000614                _printf_i
+ .text.__swbuf_r
+                0x000000000800085c       0xb4 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-wbuf.o)
+                0x000000000800085c                __swbuf_r
+ .text.__swsetup_r
+                0x0000000008000910       0xec /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-wsetup.o)
+                0x0000000008000910                __swsetup_r
+ .text._fflush_r
+                0x00000000080009fc      0x148 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-fflush.o)
+                0x00000000080009fc                _fflush_r
+ .text._cleanup_r
+                0x0000000008000b44       0x32 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-findfp.o)
+                0x0000000008000b44                _cleanup_r
+ *fill*         0x0000000008000b76        0x2 00
+ .text.std.isra.0
+                0x0000000008000b78       0x48 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-findfp.o)
+ .text.__sfmoreglue
+                0x0000000008000bc0       0x2a /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-findfp.o)
+                0x0000000008000bc0                __sfmoreglue
+ *fill*         0x0000000008000bea        0x2 00
+ .text.__sinit  0x0000000008000bec       0x58 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-findfp.o)
+                0x0000000008000bec                __sinit
+ .text.__sfp    0x0000000008000c44       0x78 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-findfp.o)
+                0x0000000008000c44                __sfp
+ .text._free_r  0x0000000008000cbc       0x88 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-freer.o)
+                0x0000000008000cbc                _free_r
+ .text.__smakebuf_r
+                0x0000000008000d44       0xa8 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-makebuf.o)
+                0x0000000008000d44                __smakebuf_r
+ .text._malloc_r
+                0x0000000008000dec       0x94 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-mallocr.o)
+                0x0000000008000dec                _malloc_r
+ .text.memchr   0x0000000008000e80       0x1c /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-memchr.o)
+                0x0000000008000e80                memchr
+ .text._putc_r  0x0000000008000e9c       0x7c /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-putc.o)
+                0x0000000008000e9c                _putc_r
+ .text._sbrk_r  0x0000000008000f18       0x20 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-sbrkr.o)
+                0x0000000008000f18                _sbrk_r
+ .text.__sread  0x0000000008000f38       0x22 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-stdio.o)
+                0x0000000008000f38                __sread
+ .text.__swrite
+                0x0000000008000f5a       0x3c /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-stdio.o)
+                0x0000000008000f5a                __swrite
+ .text.__sseek  0x0000000008000f96       0x24 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-stdio.o)
+                0x0000000008000f96                __sseek
+ .text.__sclose
+                0x0000000008000fba        0x8 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-stdio.o)
+                0x0000000008000fba                __sclose
+ .text.strlen   0x0000000008000fc2       0x10 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-strlen.o)
+                0x0000000008000fc2                strlen
+ *fill*         0x0000000008000fd2        0x2 00
+ .text._write_r
+                0x0000000008000fd4       0x24 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-writer.o)
+                0x0000000008000fd4                _write_r
+ .text._close_r
+                0x0000000008000ff8       0x20 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-closer.o)
+                0x0000000008000ff8                _close_r
+ .text._fstat_r
+                0x0000000008001018       0x24 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-fstatr.o)
+                0x0000000008001018                _fstat_r
+ .text._isatty_r
+                0x000000000800103c       0x20 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-isattyr.o)
+                0x000000000800103c                _isatty_r
+ .text._lseek_r
+                0x000000000800105c       0x24 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-lseekr.o)
+                0x000000000800105c                _lseek_r
+ .text._read_r  0x0000000008001080       0x24 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-readr.o)
+                0x0000000008001080                _read_r
+ .text.error    0x00000000080010a4       0x1c /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/librdimon.a(rdimon-syscalls.o)
+ .text.findslot
+                0x00000000080010c0       0x38 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/librdimon.a(rdimon-syscalls.o)
+ .text.checkerror
+                0x00000000080010f8        0xc /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/librdimon.a(rdimon-syscalls.o)
+ .text.initialise_monitor_handles
+                0x0000000008001104       0xa4 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/librdimon.a(rdimon-syscalls.o)
+                0x0000000008001104                initialise_monitor_handles
+ .text._swiread
+                0x00000000080011a8       0x20 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/librdimon.a(rdimon-syscalls.o)
+                0x00000000080011a8                _swiread
+ .text._read    0x00000000080011c8       0x34 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/librdimon.a(rdimon-syscalls.o)
+                0x00000000080011c8                _read
+ .text._swilseek
+                0x00000000080011fc       0x8c /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/librdimon.a(rdimon-syscalls.o)
+                0x00000000080011fc                _swilseek
+ .text._lseek   0x0000000008001288        0x4 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/librdimon.a(rdimon-syscalls.o)
+                0x0000000008001288                _lseek
+ .text._swiwrite
+                0x000000000800128c       0x20 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/librdimon.a(rdimon-syscalls.o)
+                0x000000000800128c                _swiwrite
+ .text._write   0x00000000080012ac       0x48 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/librdimon.a(rdimon-syscalls.o)
+                0x00000000080012ac                _write
+ .text._swiclose
+                0x00000000080012f4       0x20 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/librdimon.a(rdimon-syscalls.o)
+                0x00000000080012f4                _swiclose
+ .text._close   0x0000000008001314       0x48 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/librdimon.a(rdimon-syscalls.o)
+                0x0000000008001314                _close
+ .text._sbrk    0x000000000800135c       0x34 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/librdimon.a(rdimon-syscalls.o)
+                0x000000000800135c                _sbrk
+ .text._swistat
+                0x0000000008001390       0x44 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/librdimon.a(rdimon-syscalls.o)
+                0x0000000008001390                _swistat
+ .text._fstat   0x00000000080013d4       0x1c /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/librdimon.a(rdimon-syscalls.o)
+                0x00000000080013d4                _fstat
+ .text._isatty  0x00000000080013f0       0x40 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/librdimon.a(rdimon-syscalls.o)
+                0x00000000080013f0                _isatty
+ .text._exit    0x0000000008001430        0x8 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/librdimon.a(rdimon-_exit.o)
+                0x0000000008001430                _exit
+ .text._kill    0x0000000008001438       0x30 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/librdimon.a(rdimon-_kill.o)
+                0x0000000008001438                _kill
+ .text.__errno  0x0000000008001468        0xc /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-errno.o)
+                0x0000000008001468                __errno
+ *(.init)
+ .init          0x0000000008001474        0x4 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crti.o
+                0x0000000008001474                _init
+ .init          0x0000000008001478        0x8 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtn.o
+ *(.fini)
+ .fini          0x0000000008001480        0x4 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crti.o
+                0x0000000008001480                _fini
+ .fini          0x0000000008001484        0x8 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtn.o
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+ *(.rodata*)
+ .rodata.str1.1
+                0x000000000800148c        0xe /var/folders/9p/g7b6_1dj0nqcnns28dc_lp_w0000gn/T//ccJBl0Xp.o
+ .rodata.str1.1
+                0x000000000800149a        0x2 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x000000000800149c        0x4 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-impure.o)
+                0x000000000800149c                _global_impure_ptr
+ .rodata.str1.1
+                0x00000000080014a0       0x11 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-vfprintf.o)
+ .rodata.str1.1
+                0x00000000080014b1       0x22 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-vfprintf_i.o)
+ *fill*         0x00000000080014d3        0x1 00
+ .rodata.__sf_fake_stdin
+                0x00000000080014d4       0x20 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-findfp.o)
+                0x00000000080014d4                __sf_fake_stdin
+ .rodata.__sf_fake_stdout
+                0x00000000080014f4       0x20 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-findfp.o)
+                0x00000000080014f4                __sf_fake_stdout
+ .rodata.__sf_fake_stderr
+                0x0000000008001514       0x20 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-findfp.o)
+                0x0000000008001514                __sf_fake_stderr
+ .rodata.str1.4
+                0x0000000008001534        0x4 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/librdimon.a(rdimon-syscalls.o)
+ *(.eh_frame*)
+ .eh_frame      0x0000000008001538        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtbegin.o
+ .eh_frame      0x0000000008001538        0x4 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtend.o
+
+.glue_7         0x000000000800153c        0x0
+ .glue_7        0x0000000000000000        0x0 linker stubs
+
+.glue_7t        0x000000000800153c        0x0
+ .glue_7t       0x0000000000000000        0x0 linker stubs
+
+.vfp11_veneer   0x000000000800153c        0x0
+ .vfp11_veneer  0x0000000000000000        0x0 linker stubs
+
+.v4_bx          0x000000000800153c        0x0
+ .v4_bx         0x0000000000000000        0x0 linker stubs
+
+.iplt           0x000000000800153c        0x0
+ .iplt          0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x000000000800153c                __exidx_start = .
+
+.ARM.exidx      0x000000000800153c        0x8
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x000000000800153c        0x8 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/rdimon-crt0.o
+                0x0000000008001544                __exidx_end = .
+                0x0000000008001544                __etext = .
+
+.rel.dyn        0x0000000008001544        0x0
+ .rel.iplt      0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtbegin.o
+
+.data           0x0000000020000000      0x184 load address 0x0000000008001544
+                0x0000000020000000                __data_start__ = .
+ *(vtable)
+ *(.data*)
+ .data          0x0000000020000000      0x110 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/rdimon-crt0.o
+                0x0000000020000008                __stack_base__
+ .data.impure_data
+                0x0000000020000110       0x64 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x0000000020000174        0x4 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-impure.o)
+                0x0000000020000174                _impure_ptr
+                0x0000000020000178                . = ALIGN (0x4)
+                0x0000000020000178                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array)
+                0x0000000020000178                PROVIDE (__preinit_array_end, .)
+                0x0000000020000178                . = ALIGN (0x4)
+                0x0000000020000178                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array)
+ .init_array    0x0000000020000178        0x4 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtbegin.o
+                0x000000002000017c                PROVIDE (__init_array_end, .)
+                0x000000002000017c                . = ALIGN (0x4)
+                0x000000002000017c                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array)
+ .fini_array    0x000000002000017c        0x4 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtbegin.o
+                0x0000000020000180                PROVIDE (__fini_array_end, .)
+ *(.jcr*)
+ .jcr           0x0000000020000180        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtbegin.o
+ .jcr           0x0000000020000180        0x4 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtend.o
+                0x0000000020000184                . = ALIGN (0x4)
+                0x0000000020000184                __data_end__ = .
+
+.igot.plt       0x0000000020000184        0x0 load address 0x00000000080016c8
+ .igot.plt      0x0000000000000000        0x0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtbegin.o
+
+.bss            0x0000000020000184       0xd4 load address 0x00000000080016c8
+                0x0000000020000184                . = ALIGN (0x4)
+                0x0000000020000184                __bss_start__ = .
+ *(.bss*)
+ .bss           0x0000000020000184       0x1c /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtbegin.o
+ .bss.__malloc_free_list
+                0x00000000200001a0        0x4 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-mallocr.o)
+                0x00000000200001a0                __malloc_free_list
+ .bss.monitor_stdout
+                0x00000000200001a4        0x4 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/librdimon.a(rdimon-syscalls.o)
+ .bss.monitor_stdin
+                0x00000000200001a8        0x4 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/librdimon.a(rdimon-syscalls.o)
+ .bss.monitor_stderr
+                0x00000000200001ac        0x4 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/librdimon.a(rdimon-syscalls.o)
+ .bss.heap_end.5738
+                0x00000000200001b0        0x4 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/librdimon.a(rdimon-syscalls.o)
+ .bss.openfiles
+                0x00000000200001b4       0xa0 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/librdimon.a(rdimon-syscalls.o)
+ *(COMMON)
+ COMMON         0x0000000020000254        0x4 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-reent.o)
+                0x0000000020000254                errno
+                0x0000000020000258                . = ALIGN (0x4)
+                0x0000000020000258                __bss_end__ = .
+
+.heap           0x0000000020000258        0x0
+                0x0000000020000258                __end__ = .
+                0x0000000020000258                end = __end__
+ *(.heap*)
+ .heap          0x0000000020000258        0x0 /var/folders/9p/g7b6_1dj0nqcnns28dc_lp_w0000gn/T//ccC3HMPH.o
+                0x0000000020000258                __HeapLimit = .
+
+.stack_dummy    0x0000000020000258      0xc00
+ *(.stack*)
+ .stack         0x0000000020000258      0xc00 /var/folders/9p/g7b6_1dj0nqcnns28dc_lp_w0000gn/T//ccC3HMPH.o
+                0x0000000020010000                __StackTop = (ORIGIN (RAM) + 0x10000)
+                0x000000002000f400                __StackLimit = (__StackTop - SIZEOF (.stack_dummy))
+                0x0000000020010000                PROVIDE (__stack, __StackTop)
+                0x0000000000000001                ASSERT ((__StackLimit >= __HeapLimit), region RAM overflowed with stack)
+OUTPUT(semihost-CM3.axf elf32-littlearm)
+
+.ARM.attributes
+                0x0000000000000000       0x29
+ .ARM.attributes
+                0x0000000000000000       0x1d /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crti.o
+ .ARM.attributes
+                0x000000000000001d       0x2d /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtbegin.o
+ .ARM.attributes
+                0x000000000000004a       0x1b /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/rdimon-crt0.o
+ .ARM.attributes
+                0x0000000000000065       0x33 /var/folders/9p/g7b6_1dj0nqcnns28dc_lp_w0000gn/T//ccJBl0Xp.o
+ .ARM.attributes
+                0x0000000000000098       0x1b /var/folders/9p/g7b6_1dj0nqcnns28dc_lp_w0000gn/T//ccC3HMPH.o
+ .ARM.attributes
+                0x00000000000000b3       0x2d /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-__atexit2.o)
+ .ARM.attributes
+                0x00000000000000e0       0x2d /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-exit.o)
+ .ARM.attributes
+                0x000000000000010d       0x2d /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-fini.o)
+ .ARM.attributes
+                0x000000000000013a       0x2d /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000000000000167       0x2d /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-init.o)
+ .ARM.attributes
+                0x0000000000000194       0x2d /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000000000001c1       0x2d /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-printf.o)
+ .ARM.attributes
+                0x00000000000001ee       0x2d /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-putchar.o)
+ .ARM.attributes
+                0x000000000000021b       0x2d /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-vfprintf.o)
+ .ARM.attributes
+                0x0000000000000248       0x2d /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-vfprintf_i.o)
+ .ARM.attributes
+                0x0000000000000275       0x2d /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-wbuf.o)
+ .ARM.attributes
+                0x00000000000002a2       0x2d /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-wsetup.o)
+ .ARM.attributes
+                0x00000000000002cf       0x2d /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-fflush.o)
+ .ARM.attributes
+                0x00000000000002fc       0x2d /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-findfp.o)
+ .ARM.attributes
+                0x0000000000000329       0x2d /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-freer.o)
+ .ARM.attributes
+                0x0000000000000356       0x2d /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-makebuf.o)
+ .ARM.attributes
+                0x0000000000000383       0x2d /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-mallocr.o)
+ .ARM.attributes
+                0x00000000000003b0       0x2d /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-memchr.o)
+ .ARM.attributes
+                0x00000000000003dd       0x2d /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-putc.o)
+ .ARM.attributes
+                0x000000000000040a       0x2d /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x0000000000000437       0x2d /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-stdio.o)
+ .ARM.attributes
+                0x0000000000000464       0x2d /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x0000000000000491       0x2d /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-writer.o)
+ .ARM.attributes
+                0x00000000000004be       0x2d /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-closer.o)
+ .ARM.attributes
+                0x00000000000004eb       0x2d /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-fstatr.o)
+ .ARM.attributes
+                0x0000000000000518       0x2d /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-isattyr.o)
+ .ARM.attributes
+                0x0000000000000545       0x2d /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-lseekr.o)
+ .ARM.attributes
+                0x0000000000000572       0x2d /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-readr.o)
+ .ARM.attributes
+                0x000000000000059f       0x2d /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-reent.o)
+ .ARM.attributes
+                0x00000000000005cc       0x2d /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/librdimon.a(rdimon-syscalls.o)
+ .ARM.attributes
+                0x00000000000005f9       0x2d /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/librdimon.a(rdimon-_exit.o)
+ .ARM.attributes
+                0x0000000000000626       0x2d /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/librdimon.a(rdimon-_kill.o)
+ .ARM.attributes
+                0x0000000000000653       0x2d /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-errno.o)
+ .ARM.attributes
+                0x0000000000000680       0x2d /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtend.o
+ .ARM.attributes
+                0x00000000000006ad       0x1d /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/crtn.o
+
+.comment        0x0000000000000000       0x70
+ .comment       0x0000000000000000       0x70 /var/folders/9p/g7b6_1dj0nqcnns28dc_lp_w0000gn/T//ccJBl0Xp.o
+                                         0x71 (size before relaxing)
+
+.debug_info     0x0000000000000000      0x19d
+ .debug_info    0x0000000000000000      0x116 /var/folders/9p/g7b6_1dj0nqcnns28dc_lp_w0000gn/T//ccJBl0Xp.o
+ .debug_info    0x0000000000000116       0x87 /var/folders/9p/g7b6_1dj0nqcnns28dc_lp_w0000gn/T//ccC3HMPH.o
+
+.debug_abbrev   0x0000000000000000       0xde
+ .debug_abbrev  0x0000000000000000       0xca /var/folders/9p/g7b6_1dj0nqcnns28dc_lp_w0000gn/T//ccJBl0Xp.o
+ .debug_abbrev  0x00000000000000ca       0x14 /var/folders/9p/g7b6_1dj0nqcnns28dc_lp_w0000gn/T//ccC3HMPH.o
+
+.debug_loc      0x0000000000000000       0x20
+ .debug_loc     0x0000000000000000       0x20 /var/folders/9p/g7b6_1dj0nqcnns28dc_lp_w0000gn/T//ccJBl0Xp.o
+
+.debug_aranges  0x0000000000000000       0x48
+ .debug_aranges
+                0x0000000000000000       0x28 /var/folders/9p/g7b6_1dj0nqcnns28dc_lp_w0000gn/T//ccJBl0Xp.o
+ .debug_aranges
+                0x0000000000000028       0x20 /var/folders/9p/g7b6_1dj0nqcnns28dc_lp_w0000gn/T//ccC3HMPH.o
+
+.debug_ranges   0x0000000000000000       0x18
+ .debug_ranges  0x0000000000000000       0x18 /var/folders/9p/g7b6_1dj0nqcnns28dc_lp_w0000gn/T//ccJBl0Xp.o
+
+.debug_macro    0x0000000000000000      0xfd7
+ .debug_macro   0x0000000000000000       0xe9 /var/folders/9p/g7b6_1dj0nqcnns28dc_lp_w0000gn/T//ccJBl0Xp.o
+ .debug_macro   0x00000000000000e9      0x7fc /var/folders/9p/g7b6_1dj0nqcnns28dc_lp_w0000gn/T//ccJBl0Xp.o
+ .debug_macro   0x00000000000008e5       0x3a /var/folders/9p/g7b6_1dj0nqcnns28dc_lp_w0000gn/T//ccJBl0Xp.o
+ .debug_macro   0x000000000000091f       0x2e /var/folders/9p/g7b6_1dj0nqcnns28dc_lp_w0000gn/T//ccJBl0Xp.o
+ .debug_macro   0x000000000000094d       0x94 /var/folders/9p/g7b6_1dj0nqcnns28dc_lp_w0000gn/T//ccJBl0Xp.o
+ .debug_macro   0x00000000000009e1       0x10 /var/folders/9p/g7b6_1dj0nqcnns28dc_lp_w0000gn/T//ccJBl0Xp.o
+ .debug_macro   0x00000000000009f1       0x89 /var/folders/9p/g7b6_1dj0nqcnns28dc_lp_w0000gn/T//ccJBl0Xp.o
+ .debug_macro   0x0000000000000a7a       0x10 /var/folders/9p/g7b6_1dj0nqcnns28dc_lp_w0000gn/T//ccJBl0Xp.o
+ .debug_macro   0x0000000000000a8a       0x3a /var/folders/9p/g7b6_1dj0nqcnns28dc_lp_w0000gn/T//ccJBl0Xp.o
+ .debug_macro   0x0000000000000ac4       0x52 /var/folders/9p/g7b6_1dj0nqcnns28dc_lp_w0000gn/T//ccJBl0Xp.o
+ .debug_macro   0x0000000000000b16       0x19 /var/folders/9p/g7b6_1dj0nqcnns28dc_lp_w0000gn/T//ccJBl0Xp.o
+ .debug_macro   0x0000000000000b2f      0x16d /var/folders/9p/g7b6_1dj0nqcnns28dc_lp_w0000gn/T//ccJBl0Xp.o
+ .debug_macro   0x0000000000000c9c       0x10 /var/folders/9p/g7b6_1dj0nqcnns28dc_lp_w0000gn/T//ccJBl0Xp.o
+ .debug_macro   0x0000000000000cac       0xf5 /var/folders/9p/g7b6_1dj0nqcnns28dc_lp_w0000gn/T//ccJBl0Xp.o
+ .debug_macro   0x0000000000000da1       0x22 /var/folders/9p/g7b6_1dj0nqcnns28dc_lp_w0000gn/T//ccJBl0Xp.o
+ .debug_macro   0x0000000000000dc3       0x91 /var/folders/9p/g7b6_1dj0nqcnns28dc_lp_w0000gn/T//ccJBl0Xp.o
+ .debug_macro   0x0000000000000e54       0x16 /var/folders/9p/g7b6_1dj0nqcnns28dc_lp_w0000gn/T//ccJBl0Xp.o
+ .debug_macro   0x0000000000000e6a      0x16d /var/folders/9p/g7b6_1dj0nqcnns28dc_lp_w0000gn/T//ccJBl0Xp.o
+
+.debug_line     0x0000000000000000      0x388
+ .debug_line    0x0000000000000000      0x31c /var/folders/9p/g7b6_1dj0nqcnns28dc_lp_w0000gn/T//ccJBl0Xp.o
+ .debug_line    0x000000000000031c       0x6c /var/folders/9p/g7b6_1dj0nqcnns28dc_lp_w0000gn/T//ccC3HMPH.o
+
+.debug_str      0x0000000000000000     0x4935
+ .debug_str     0x0000000000000000     0x4935 /var/folders/9p/g7b6_1dj0nqcnns28dc_lp_w0000gn/T//ccJBl0Xp.o
+                                       0x4a35 (size before relaxing)
+
+.debug_frame    0x0000000000000000      0xaf0
+ .debug_frame   0x0000000000000000       0x38 /var/folders/9p/g7b6_1dj0nqcnns28dc_lp_w0000gn/T//ccJBl0Xp.o
+ .debug_frame   0x0000000000000038       0x28 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-__atexit2.o)
+ .debug_frame   0x0000000000000060       0x28 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-exit.o)
+ .debug_frame   0x0000000000000088       0x2c /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-fini.o)
+ .debug_frame   0x00000000000000b4       0x2c /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-init.o)
+ .debug_frame   0x00000000000000e0       0x20 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-memset.o)
+ .debug_frame   0x0000000000000100       0x60 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-printf.o)
+ .debug_frame   0x0000000000000160       0x48 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-putchar.o)
+ .debug_frame   0x00000000000001a8       0x90 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-vfprintf.o)
+ .debug_frame   0x0000000000000238       0x58 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-vfprintf_i.o)
+ .debug_frame   0x0000000000000290       0x3c /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-wbuf.o)
+ .debug_frame   0x00000000000002cc       0x2c /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-wsetup.o)
+ .debug_frame   0x00000000000002f8       0x40 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-fflush.o)
+ .debug_frame   0x0000000000000338      0x130 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-findfp.o)
+ .debug_frame   0x0000000000000468       0x2c /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-freer.o)
+ .debug_frame   0x0000000000000494       0x30 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-makebuf.o)
+ .debug_frame   0x00000000000004c4       0x2c /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-mallocr.o)
+ .debug_frame   0x00000000000004f0       0x28 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-memchr.o)
+ .debug_frame   0x0000000000000518       0x3c /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-putc.o)
+ .debug_frame   0x0000000000000554       0x2c /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-sbrkr.o)
+ .debug_frame   0x0000000000000580       0x80 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-stdio.o)
+ .debug_frame   0x0000000000000600       0x20 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-strlen.o)
+ .debug_frame   0x0000000000000620       0x2c /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-writer.o)
+ .debug_frame   0x000000000000064c       0x2c /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-closer.o)
+ .debug_frame   0x0000000000000678       0x2c /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-fstatr.o)
+ .debug_frame   0x00000000000006a4       0x2c /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-isattyr.o)
+ .debug_frame   0x00000000000006d0       0x2c /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-lseekr.o)
+ .debug_frame   0x00000000000006fc       0x2c /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-readr.o)
+ .debug_frame   0x0000000000000728       0x64 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-reent.o)
+ .debug_frame   0x000000000000078c      0x2f8 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/librdimon.a(rdimon-syscalls.o)
+ .debug_frame   0x0000000000000a84       0x20 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/librdimon.a(rdimon-_exit.o)
+ .debug_frame   0x0000000000000aa4       0x2c /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/librdimon.a(rdimon-_kill.o)
+ .debug_frame   0x0000000000000ad0       0x20 /Users/jhg/toolchain-gcc-arm-none-eabi-4_7-2012q4-20121208-mac/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7-m/libc_s.a(lib_a-errno.o)

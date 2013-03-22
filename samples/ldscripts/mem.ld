@@ -5,8 +5,11 @@
  *   RAM.ORIGIN: starting address of RAM bank 0
  *   RAM.LENGTH: length of RAM bank 0
  */
+
+/* STM32F107VCT6, 256K flash, 64K RAM. */
+
 MEMORY
 {
-  FLASH (rx) : ORIGIN = 0x0, LENGTH = 0x20000 /* 128K */
-  RAM (rwx) : ORIGIN = 0x10000000, LENGTH = 0x2000 /* 8K */
+  FLASH (rx)  : ORIGIN = 0x08000000, LENGTH = 0x40000 /* 256k */ /* 0x20000 128K */
+  RAM   (rwx) : ORIGIN = 0x20000000, LENGTH = 0x10000 /* 64k */ /* 0x2000  8K */
 }

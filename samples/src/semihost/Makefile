@@ -3,8 +3,7 @@ NAME=semihost
 STARTUP_DEFS=
 
 LDSCRIPTS=-L. -L$(BASE)/ldscripts -T gcc.ld
-LFLAGS=$(USE_NANO) $(USE_SEMIHOST) $(LDSCRIPTS) $(GC) $(MAP)
-
+LFLAGS=$(USE_NANO) $(USE_SEMIHOST) $(LDSCRIPTS) $(GC) $(MAP) -g3
 $(NAME)-$(CORE).axf: $(NAME).c $(STARTUP)
 	$(CC) $^ $(CFLAGS) $(LFLAGS) -o $@
 
