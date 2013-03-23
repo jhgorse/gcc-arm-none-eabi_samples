@@ -2,3 +2,5 @@
 *.o
 
 *.a
+
+lwip_stm32f107_an/Libraries/CMSIS/Core/CM3/core_cm3.orig.c
