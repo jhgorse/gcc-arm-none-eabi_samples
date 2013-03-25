@@ -1,0 +1,222 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"stm32_eval",
+				"STM32_EVAL"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "lwip_stm32f107_an/Libraries/CMakeLists.txt",
+			"settings":
+			{
+				"buffer_size": 1276,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: #!/usr/bin/env"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jhg/Documents/STM32_ARM_Cortex_M3/dev/code/libopencm3-blinkf107/fancyblink-f107-libopencm3.c",
+		"/Users/jhg/Documents/STM32_ARM_Cortex_M3/dev/STM32F10x_StdPeriph_Lib_V3.5.0/Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_gpio.h",
+		"/Users/jhg/Documents/STM32_ARM_Cortex_M3/dev/STM32F10x_StdPeriph_Lib_V3.5.0/Libraries/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.c",
+		"/Users/jhg/Documents/STM32_ARM_Cortex_M3/dev/stm32-cmake-gh/stm32-blinky/main.c",
+		"/Users/jhg/Documents/STM32_ARM_Cortex_M3/dev/stm32-cmake-gh/cmsis/CMakeLists.txt",
+		"/Users/jhg/Documents/STM32_ARM_Cortex_M3/dev/stm32-cmake-gh/configure.sh",
+		"/Users/jhg/Documents/STM32_ARM_Cortex_M3/dev/stm32-cmake-gh/stdperiph/CMakeLists.txt",
+		"/Users/jhg/Documents/STM32_ARM_Cortex_M3/dev/stm32-cmake-gh/cmsis-3.0/CMakeLists.txt",
+		"/Users/jhg/Documents/STM32_ARM_Cortex_M3/dev/STM32F10x_StdPeriph_Lib_V3.5.0/Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_misc.h",
+		"/Users/jhg/Documents/STM32_ARM_Cortex_M3/dev/STM32F10x_StdPeriph_Lib_V3.5.0/Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_pwr.h",
+		"/Users/jhg/Documents/STM32_ARM_Cortex_M3/dev/STM32F10x_StdPeriph_Lib_V3.5.0/Libraries/STM32F10x_StdPeriph_Driver/src/stm32f10x_misc.c",
+		"/Users/jhg/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/jhg/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/jhg/Documents/STM32_ARM_Cortex_M3/dev/gnu arm eclipse setup-stm32plus 2.0.0- a major release | Andys Workshop.webloc",
+		"/Users/jhg/Library/Application Support/Sublime Text 2/Packages/User/JSON.sublime-settings",
+		"/Users/jhg/Documents/STM32_ARM_Cortex_M3/dev/gcc-arm-none-eabi_samples/lwip_stm32f107_an/Makefile.subdir",
+		"/Users/jhg/Documents/STM32_ARM_Cortex_M3/dev/gcc-arm-none-eabi_samples/lwip_stm32f107_an/gcc-arm-Makefile"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"GPIOD",
+			"BSRR",
+			"gpio",
+			"STREXB",
+			"strexb",
+			"lto",
+			"SET",
+			"lto",
+			"projec",
+			"STARTUP_DEFS",
+			"MAKE",
+			".S",
+			"OBJS",
+			"HSE",
+			"PLL",
+			"LED_GPIO_CLK",
+			"LED_GPIO_CLK\n",
+			"read",
+			"helado",
+			"mada",
+			"br>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "lwip_stm32f107_an/Libraries/CMakeLists.txt",
+					"settings":
+					{
+						"buffer_size": 1276,
+						"regions":
+						{
+							"bookmarks":
+							{
+								"flags": 144,
+								"icon": "bookmark",
+								"regions":
+								[
+								],
+								"scope": "bookmarks"
+							}
+						},
+						"selection":
+						[
+							[
+								203,
+								203
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 256.0,
+	"status_bar_visible": true
+}
