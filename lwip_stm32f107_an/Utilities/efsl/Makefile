@@ -1,10 +1,14 @@
 include ../../Makefile.conf
 
+NAME = efsl
+
+BASE = ../$(BASE)
+
 vpath %.c source source/interface
 # .S here and startup_stm32f10x_cl.S later?
 
 #CFLAGS += -ffreestanding -nostdlib
-CFLAGS += -Isource -Isource/interface
+CFLAGS += -Iinclude -Iinclude/interface -I$(PI) -I../../Libraries/STM32F10x_StdPeriph_Driver/inc/
 #CFLAGS += -I$(PI)
 
 #SRCS  = stm32f4_discovery.c
@@ -14,13 +18,14 @@ plibc.c time.c ui.c
 
 OBJS = $(SRCS:.c=.o)
 
-.PHONY: $(SRCS)
-	$(OBJS)
-all: $(SRCS)
-	$(OBJS)
+.PHONY: lib$(NAME)-$(CORE).a
+all: lib$(NAME)-$(CORE).a
 
 %.o : %.c
 	$(CC) $(CFLAGS) -c -o $@ $^
 
+lib$(NAME)-$(CORE).a: $(OBJS)
+	$(AR) -r ../$@ $(OBJS)
+
 clean:
-	rm -f $(OBJS)
+	rm -f $(OBJS) ../lib*.a
