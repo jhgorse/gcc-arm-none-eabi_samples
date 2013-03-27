@@ -1,0 +1,72 @@
+# Makefile.conf is included at the beginning of the 'Makefile'
+#  so that the values may be overridden.
+# Makefile defines SRCS, OBJS, and include directories
+#  for the entire project.
+# Makefile.common is called at the end of 'Makefile' to 
+#  perform compilation, linking, and loading.
+
+### name of executable
+ELF = $(notdir $(CURDIR)).elf                    
+
+# Library path - Local in this case
+#LIBROOT=/Users/jhg/stdev/STM32F10x_StdPeriph_Lib_V3.5.0
+LIBROOT = ../../Libraries
+
+# Code Paths - Modified for local CMSIS and SPL
+DEVICE = $(LIBROOT)/Libraries/CMSIS/Core/CM3
+PERIPH = $(LIBROOT)/Libraries/STM32F10x_StdPeriph_Driver
+STMETH = $(LIBROOT)/Libraries/STM32_ETH_Driver
+
+# Search paths (in build order)
+vpath %.c $(VPATHS)
+vpath %.S ../../Libraries/CMSIS/Core/CM3/startup/gcc
+
+#  Processor specific - TODO
+LDSCRIPT = $(BASE)/stm32f100.ld
+STARTUP  = startup_stm32f10x_cl.o system_stm32f10x.o 
+
+## THE ARM WAY ##
+# LDSCRIPTS = -L. -L$(BASE)/ldscripts -T gcc.ld
+LDFLAGS    = $(USE_NANO) $(USE_SEMIHOST) $(LDSCRIPTS) $(GC) $(MAP) -g3
+
+# $(NAME)-$(CORE).axf: $(NAME).c $(STARTUP)
+# 	$(CC) $^ $(CFLAGS) $(LFLAGS) -o $@
+
+# clean: 
+# 	rm -f $(NAME)*.axf *.map
+## !THE ARM WAY 
+
+# Compilation Flags
+#FULLASSERT = -DUSE_FULL_ASSERT 
+
+CFLAGS += $(INCLUDES)
+# Build executable 
+all: $(ELF)
+$(ELF) : $(OBJS) $(STARTUP)
+	$(CC) $(LDFLAGS) -o $@ $(OBJS) $(LDLIBS)
+
+# compile and generate dependency info
+%.o: %.c
+	$(CC) -c $(CFLAGS) $< -o $@
+	$(CC) -MM $(CFLAGS) $< > $*.d
+
+%.o: %.s
+	$(CC) -c $(CFLAGS) $< -o $@
+
+clean:
+	rm -f $(OBJS) $(OBJS:.o=.d) $(ELF) startup_stm32f* $(CLEANOTHER)
+
+debug: $(ELF)
+	arm-none-eabi-gdbtui -ex "target remote localhost:4242" $(ELF)
+
+# pull in dependencies
+# -include $(OBJS:.o=.d)
+
+ifneq "$(MAKECMDGOALS)" "clean"
+	-include $(DEPS)
+endif
+ 
+%.d: %.c
+	$(CC) -M $(CFLAGS) $< > $@.$$$$;                      \
+	sed 's,\($*\)\.o[ :]*,\1.o $@ : ,g' < $@.$$$$ > $@;     \
+	rm -f $@.$$$$

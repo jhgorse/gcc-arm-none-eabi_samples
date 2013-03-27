@@ -1,0 +1,98 @@
+<ApplicationBuild Header="project" Extern=".\project.rapp" Path=".\project.rapp" OutputFile=".\STM3210C-EVAL\project.elf" sate="98" Config="STM3210C-EVAL" >
+	<Group Header="User" Marker="-1" OutputFile="" sate="0" >
+		<NodeC Path="..\src\main.c" Header="main.c" Marker="-1" OutputFile=".\STM3210C-EVAL\main.o" sate="0" />
+		<NodeC Path="..\src\netconf.c" Header="netconf.c" Marker="-1" OutputFile=".\STM3210C-EVAL\netconf.o" sate="0" />
+		<NodeC Path="..\src\stm32f10x_it.c" Header="stm32f10x_it.c" Marker="-1" OutputFile=".\STM3210C-EVAL\stm32f10x_it.o" sate="0" />
+		<NodeC Path="..\src\stm32f107.c" Header="stm32f107.c" Marker="-1" OutputFile=".\STM3210C-EVAL\stm32f107.o" sate="0" />
+		<NodeC Path="..\..\Utilities\lwip-1.3.1\port\tftputils.c" Header="tftputils.c" Marker="-1" OutputFile=".\STM3210C-EVAL\tftputils.o" sate="0" />
+		<NodeC Path="..\..\Utilities\lwip-1.3.1\port\client.c" Header="client.c" Marker="-1" OutputFile=".\STM3210C-EVAL\client.o" sate="0" />
+		<NodeC Path="..\..\Utilities\lwip-1.3.1\port\helloworld.c" Header="helloworld.c" Marker="-1" OutputFile=".\STM3210C-EVAL\helloworld.o" sate="0" />
+		<NodeC Path="..\..\Utilities\lwip-1.3.1\port\httpd.c" Header="httpd.c" Marker="-1" OutputFile=".\STM3210C-EVAL\httpd.o" sate="0" />
+		<NodeC Path="..\..\Utilities\lwip-1.3.1\port\server.c" Header="server.c" Marker="-1" OutputFile=".\STM3210C-EVAL\server.o" sate="0" />
+		<NodeC Path="..\..\Utilities\lwip-1.3.1\port\tftpserver.c" Header="tftpserver.c" Marker="-1" OutputFile=".\STM3210C-EVAL\tftpserver.o" sate="0" />
+												
+	</Group>
+	<Group Header="STM32F10x_StdPeriph_Driver" Marker="-1" OutputFile="" sate="0" >
+		<NodeC Path="..\..\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_i2c.c" Header="stm32f10x_i2c.c" Marker="-1" OutputFile=".\STM3210C-EVAL\stm32f10x_i2c.o" sate="0" />
+		<NodeC Path="..\..\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_rcc.c" Header="stm32f10x_rcc.c" Marker="-1" OutputFile=".\STM3210C-EVAL\stm32f10x_rcc.o" sate="0" />
+		<NodeC Path="..\..\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_spi.c" Header="stm32f10x_spi.c" Marker="-1" OutputFile=".\STM3210C-EVAL\stm32f10x_spi.o" sate="0" />
+		<NodeC Path="..\..\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_tim.c" Header="stm32f10x_tim.c" Marker="-1" OutputFile=".\STM3210C-EVAL\stm32f10x_tim.o" sate="0" />
+		<NodeC Path="..\..\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_usart.c" Header="stm32f10x_usart.c" Marker="-1" OutputFile=".\STM3210C-EVAL\stm32f10x_usart.o" sate="0" />
+		<NodeC Path="..\..\Libraries\STM32F10x_StdPeriph_Driver\src\misc.c" Header="misc.c" Marker="-1" OutputFile=".\STM3210C-EVAL\misc.o" sate="0" />
+		<NodeC Path="..\..\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_adc.c" Header="stm32f10x_adc.c" Marker="-1" OutputFile=".\STM3210C-EVAL\stm32f10x_adc.o" sate="0" />
+		<NodeC Path="..\..\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_exti.c" Header="stm32f10x_exti.c" Marker="-1" OutputFile=".\STM3210C-EVAL\stm32f10x_exti.o" sate="0" />
+		<NodeC Path="..\..\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_flash.c" Header="stm32f10x_flash.c" Marker="-1" OutputFile=".\STM3210C-EVAL\stm32f10x_flash.o" sate="0" />
+		<NodeC Path="..\..\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_gpio.c" Header="stm32f10x_gpio.c" Marker="-1" OutputFile=".\STM3210C-EVAL\stm32f10x_gpio.o" sate="0" />
+												
+	</Group>
+	<Group Header="STM32_ETH_Driver" Marker="-1" OutputFile="" sate="0" >
+		<NodeC Path="..\..\Libraries\STM32_ETH_Driver\src\stm32_eth.c" Header="stm32_eth.c" Marker="-1" OutputFile=".\STM3210C-EVAL\stm32_eth.o" sate="0" />
+												
+	</Group>
+	<Group Header="LwIP" Marker="-1" OutputFile="" sate="0" >
+		<NodeC Path="..\..\Utilities\lwip-1.3.1\src\api\tcpip.c" Header="tcpip.c" Marker="-1" OutputFile=".\STM3210C-EVAL\tcpip.o" sate="0" />
+		<NodeC Path="..\..\Utilities\lwip-1.3.1\src\api\api_lib.c" Header="api_lib.c" Marker="-1" OutputFile=".\STM3210C-EVAL\api_lib.o" sate="0" />
+		<NodeC Path="..\..\Utilities\lwip-1.3.1\src\api\api_msg.c" Header="api_msg.c" Marker="-1" OutputFile=".\STM3210C-EVAL\api_msg.o" sate="0" />
+		<NodeC Path="..\..\Utilities\lwip-1.3.1\src\api\err.c" Header="err.c" Marker="-1" OutputFile=".\STM3210C-EVAL\err.o" sate="0" />
+		<NodeC Path="..\..\Utilities\lwip-1.3.1\src\api\netbuf.c" Header="netbuf.c" Marker="-1" OutputFile=".\STM3210C-EVAL\netbuf.o" sate="0" />
+		<NodeC Path="..\..\Utilities\lwip-1.3.1\src\api\netdb.c" Header="netdb.c" Marker="-1" OutputFile=".\STM3210C-EVAL\netdb.o" sate="0" />
+		<NodeC Path="..\..\Utilities\lwip-1.3.1\src\api\netifapi.c" Header="netifapi.c" Marker="-1" OutputFile=".\STM3210C-EVAL\netifapi.o" sate="0" />
+		<NodeC Path="..\..\Utilities\lwip-1.3.1\src\core\tcp_out.c" Header="tcp_out.c" Marker="-1" OutputFile=".\STM3210C-EVAL\tcp_out.o" sate="0" />
+		<NodeC Path="..\..\Utilities\lwip-1.3.1\src\core\udp.c" Header="udp.c" Marker="-1" OutputFile=".\STM3210C-EVAL\udp.o" sate="0" />
+		<NodeC Path="..\..\Utilities\lwip-1.3.1\src\core\dhcp.c" Header="dhcp.c" Marker="-1" OutputFile=".\STM3210C-EVAL\dhcp.o" sate="0" />
+		<NodeC Path="..\..\Utilities\lwip-1.3.1\src\core\init.c" Header="init.c" Marker="-1" OutputFile=".\STM3210C-EVAL\init.o" sate="0" />
+		<NodeC Path="..\..\Utilities\lwip-1.3.1\src\core\mem.c" Header="mem.c" Marker="-1" OutputFile=".\STM3210C-EVAL\mem.o" sate="0" />
+		<NodeC Path="..\..\Utilities\lwip-1.3.1\src\core\memp.c" Header="memp.c" Marker="-1" OutputFile=".\STM3210C-EVAL\memp.o" sate="0" />
+		<NodeC Path="..\..\Utilities\lwip-1.3.1\src\core\netif.c" Header="netif.c" Marker="-1" OutputFile=".\STM3210C-EVAL\netif.o" sate="0" />
+		<NodeC Path="..\..\Utilities\lwip-1.3.1\src\core\pbuf.c" Header="pbuf.c" Marker="-1" OutputFile=".\STM3210C-EVAL\pbuf.o" sate="0" />
+		<NodeC Path="..\..\Utilities\lwip-1.3.1\src\core\raw.c" Header="raw.c" Marker="-1" OutputFile=".\STM3210C-EVAL\raw.o" sate="0" />
+		<NodeC Path="..\..\Utilities\lwip-1.3.1\src\core\stats.c" Header="stats.c" Marker="-1" OutputFile=".\STM3210C-EVAL\stats.o" sate="0" />
+		<NodeC Path="..\..\Utilities\lwip-1.3.1\src\core\sys.c" Header="sys.c" Marker="-1" OutputFile=".\STM3210C-EVAL\sys.o" sate="0" />
+		<NodeC Path="..\..\Utilities\lwip-1.3.1\src\core\tcp.c" Header="tcp.c" Marker="-1" OutputFile=".\STM3210C-EVAL\tcp.o" sate="0" />
+		<NodeC Path="..\..\Utilities\lwip-1.3.1\src\core\tcp_in.c" Header="tcp_in.c" Marker="-1" OutputFile=".\STM3210C-EVAL\tcp_in.o" sate="0" />
+		<NodeC Path="..\..\Utilities\lwip-1.3.1\port\ethernetif.c" Header="ethernetif.c" Marker="-1" OutputFile=".\STM3210C-EVAL\ethernetif.o" sate="0" />
+		<NodeC Path="..\..\Utilities\lwip-1.3.1\src\core\ipv4\autoip.c" Header="autoip.c" Marker="-1" OutputFile=".\STM3210C-EVAL\autoip.o" sate="0" />
+		<NodeC Path="..\..\Utilities\lwip-1.3.1\src\core\ipv4\icmp.c" Header="icmp.c" Marker="-1" OutputFile=".\STM3210C-EVAL\icmp.o" sate="0" />
+		<NodeC Path="..\..\Utilities\lwip-1.3.1\src\core\ipv4\igmp.c" Header="igmp.c" Marker="-1" OutputFile=".\STM3210C-EVAL\igmp.o" sate="0" />
+		<NodeC Path="..\..\Utilities\lwip-1.3.1\src\core\ipv4\inet.c" Header="inet.c" Marker="-1" OutputFile=".\STM3210C-EVAL\inet.o" sate="0" />
+		<NodeC Path="..\..\Utilities\lwip-1.3.1\src\core\ipv4\inet_chksum.c" Header="inet_chksum.c" Marker="-1" OutputFile=".\STM3210C-EVAL\inet_chksum.o" sate="0" />
+		<NodeC Path="..\..\Utilities\lwip-1.3.1\src\core\ipv4\ip.c" Header="ip.c" Marker="-1" OutputFile=".\STM3210C-EVAL\ip.o" sate="0" />
+		<NodeC Path="..\..\Utilities\lwip-1.3.1\src\core\ipv4\ip_addr.c" Header="ip_addr.c" Marker="-1" OutputFile=".\STM3210C-EVAL\ip_addr.o" sate="0" />
+		<NodeC Path="..\..\Utilities\lwip-1.3.1\src\core\ipv4\ip_frag.c" Header="ip_frag.c" Marker="-1" OutputFile=".\STM3210C-EVAL\ip_frag.o" sate="0" />
+		<NodeC Path="..\..\Utilities\lwip-1.3.1\src\netif\etharp.c" Header="etharp.c" Marker="-1" OutputFile=".\STM3210C-EVAL\etharp.o" sate="0" />
+												
+	</Group>
+	<Group Header="efsl" Marker="-1" OutputFile="" sate="0" >
+		<NodeC Path="..\..\Utilities\efsl\source\ui.c" Header="ui.c" Marker="-1" OutputFile=".\STM3210C-EVAL\ui.o" sate="0" />
+		<NodeC Path="..\..\Utilities\efsl\source\dir.c" Header="dir.c" Marker="-1" OutputFile=".\STM3210C-EVAL\dir.o" sate="0" />
+		<NodeC Path="..\..\Utilities\efsl\source\disc.c" Header="disc.c" Marker="-1" OutputFile=".\STM3210C-EVAL\disc.o" sate="0" />
+		<NodeC Path="..\..\Utilities\efsl\source\efs.c" Header="efs.c" Marker="-1" OutputFile=".\STM3210C-EVAL\efs.o" sate="0" />
+		<NodeC Path="..\..\Utilities\efsl\source\extract.c" Header="extract.c" Marker="-1" OutputFile=".\STM3210C-EVAL\extract.o" sate="0" />
+		<NodeC Path="..\..\Utilities\efsl\source\fat.c" Header="fat.c" Marker="-1" OutputFile=".\STM3210C-EVAL\fat.o" sate="0" />
+		<NodeC Path="..\..\Utilities\efsl\source\file.c" Header="file.c" Marker="-1" OutputFile=".\STM3210C-EVAL\file.o" sate="0" />
+		<NodeC Path="..\..\Utilities\efsl\source\fs.c" Header="fs.c" Marker="-1" OutputFile=".\STM3210C-EVAL\fs.o" sate="0" />
+		<NodeC Path="..\..\Utilities\efsl\source\ioman.c" Header="ioman.c" Marker="-1" OutputFile=".\STM3210C-EVAL\ioman.o" sate="0" />
+		<NodeC Path="..\..\Utilities\efsl\source\ls.c" Header="ls.c" Marker="-1" OutputFile=".\STM3210C-EVAL\ls.o" sate="0" />
+		<NodeC Path="..\..\Utilities\efsl\source\mkfs.c" Header="mkfs.c" Marker="-1" OutputFile=".\STM3210C-EVAL\mkfs.o" sate="0" />
+		<NodeC Path="..\..\Utilities\efsl\source\partition.c" Header="partition.c" Marker="-1" OutputFile=".\STM3210C-EVAL\partition.o" sate="0" />
+		<NodeC Path="..\..\Utilities\efsl\source\plibc.c" Header="plibc.c" Marker="-1" OutputFile=".\STM3210C-EVAL\plibc.o" sate="0" />
+		<NodeC Path="..\..\Utilities\efsl\source\time.c" Header="time.c" Marker="-1" OutputFile=".\STM3210C-EVAL\time.o" sate="0" />
+		<NodeC Path="..\..\Utilities\efsl\source\interface\sd.c" Header="sd.c" Marker="-1" OutputFile=".\STM3210C-EVAL\sd.o" sate="0" />
+		<NodeC Path="..\..\Utilities\efsl\source\interface\sd_stm32.c" Header="sd_stm32.c" Marker="-1" OutputFile=".\STM3210C-EVAL\sd_stm32.o" sate="0" />
+												
+	</Group>
+	<Group Header="CMSIS" Marker="-1" OutputFile="" sate="0" >
+		<NodeC Path="..\..\Libraries\CMSIS\Core\CM3\system_stm32f10x.c" Header="system_stm32f10x.c" Marker="-1" OutputFile=".\STM3210C-EVAL\system_stm32f10x.o" sate="0" />
+		<NodeC Path="..\..\Libraries\CMSIS\Core\CM3\core_cm3.c" Header="core_cm3.c" Marker="-1" OutputFile=".\STM3210C-EVAL\core_cm3.o" sate="0" />
+												
+	</Group>
+	<Group Header="RIDE" Marker="-1" OutputFile="" sate="0" >
+		<NodeASM Path="..\..\Libraries\CMSIS\Core\CM3\startup\gcc\startup_stm32f10x_cl.s" Header="startup_stm32f10x_cl.s" Marker="-1" OutputFile=".\STM3210C-EVAL\startup_stm32f10x_cl.o" sate="0" />
+												
+	</Group>
+	<Group Header="STM32_EVAL" Marker="-1" OutputFile="" sate="0" >
+		<NodeC Path="..\..\Utilities\STM32_EVAL\stm32_eval.c" Header="stm32_eval.c" Marker="-1" OutputFile=".\STM3210C-EVAL\stm32_eval.o" sate="0" />
+		<NodeC Path="..\..\Utilities\STM32_EVAL\STM3210C_EVAL\stm3210c_eval_lcd.c" Header="stm3210c_eval_lcd.c" Marker="-1" OutputFile=".\STM3210C-EVAL\stm3210c_eval_lcd.o" sate="0" />
+		<NodeC Path="..\..\Utilities\STM32_EVAL\STM3210C_EVAL\stm3210c_eval_ioe.c" Header="stm3210c_eval_ioe.c" Marker="-1" OutputFile=".\STM3210C-EVAL\stm3210c_eval_ioe.o" sate="0" />
+												
+	</Group>

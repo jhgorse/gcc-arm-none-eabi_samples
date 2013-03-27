@@ -1,0 +1,15 @@
+../src \
+../../Utilities/lwip-1.3.1/port \
+../../Libraries/STM32F10x_StdPeriph_Driver/src \
+../../Libraries/STM32_ETH_Driver/src \
+../../Utilities/lwip-1.3.1/src/api \
+../../Utilities/lwip-1.3.1/src/core \
+../../Utilities/lwip-1.3.1/port \
+../../Utilities/lwip-1.3.1/src/core/ipv4 \
+../../Utilities/lwip-1.3.1/src/netif \
+../../Utilities/efsl/source \
+../../Utilities/efsl/source/interface \
+../../Libraries/CMSIS/Core/CM3 \
+../../Libraries/CMSIS/Core/CM3/startup/gcc \
+../../Utilities/STM32_EVAL \
+../../Utilities/STM32_EVAL/STM3210C_EVAL \
