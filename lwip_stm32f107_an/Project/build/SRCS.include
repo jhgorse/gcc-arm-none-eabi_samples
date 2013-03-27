@@ -73,7 +73,7 @@ SRCS += ../../Utilities/efsl/source/interface/sd_stm32.c
 SRCS += ../../Libraries/CMSIS/Core/CM3/system_stm32f10x.c 
 SRCS += ../../Libraries/CMSIS/Core/CM3/core_cm3.c 
 												
-SRCS += ../../Libraries/CMSIS/Core/CM3/startup/gcc/startup_stm32f10x_cl.S 
+# SRCS += ../../Libraries/CMSIS/Core/CM3/startup/gcc/startup_stm32f10x_cl.S 
 												
 SRCS += ../../Utilities/STM32_EVAL/stm32_eval.c 
 SRCS += ../../Utilities/STM32_EVAL/STM3210C_EVAL/stm3210c_eval_lcd.c 

@@ -6,7 +6,8 @@
 #  perform compilation, linking, and loading.
 
 ### name of executable
-ELF = $(notdir $(CURDIR)).elf                    
+#ELF = $(notdir $(CURDIR)).elf                    
+ELF = $(NAME).elf
 
 # Library path - Local in this case
 #LIBROOT=/Users/jhg/stdev/STM32F10x_StdPeriph_Lib_V3.5.0
@@ -54,7 +55,7 @@ $(ELF) : $(OBJS) $(STARTUP)
 	$(CC) -c $(CFLAGS) $< -o $@
 
 clean:
-	rm -f $(OBJS) $(OBJS:.o=.d) $(ELF) startup_stm32f* $(CLEANOTHER)
+	rm -f $(OBJS) $(OBJS:.o=.d) $(ELF) startup_stm32f* $(CLEANOTHER) *.map
 
 debug: $(ELF)
 	arm-none-eabi-gdbtui -ex "target remote localhost:4242" $(ELF)
@@ -62,9 +63,9 @@ debug: $(ELF)
 # pull in dependencies
 # -include $(OBJS:.o=.d)
 
-ifneq "$(MAKECMDGOALS)" "clean"
-	-include $(DEPS)
-endif
+#ifneq "$(MAKECMDGOALS)" "clean"
+-include $(DEPS)
+#endif
  
 %.d: %.c
 	$(CC) -M $(CFLAGS) $< > $@.$$$$;                      \
