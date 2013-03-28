@@ -23,12 +23,14 @@ vpath %.c $(VPATHS)
 vpath %.S ../../Libraries/CMSIS/Core/CM3/startup/gcc
 
 #  Processor specific - TODO
-LDSCRIPT = $(BASE)/stm32f100.ld
+LDSCRIPT = -L$(BASE) -T $(BASE)/stm32_flash-atollic_blinky.ld
+#LDSCRIPT = -L$(BASE) -T $(BASE)/stm32_flash-mercury.ld
+#LDSCRIPT = -L$(BASE) -T $(BASE)/fancyblink-f107-libopencm3.ld
 STARTUP  = startup_stm32f10x_cl.o system_stm32f10x.o 
 
 ## THE ARM WAY ##
-# LDSCRIPTS = -L. -L$(BASE)/ldscripts -T gcc.ld
-LDFLAGS    = $(USE_NANO) $(USE_SEMIHOST) $(LDSCRIPTS) $(GC) $(MAP) -g3
+# LDSCRIPT = -L. -L$(BASE)/ldscripts -T gcc.ld
+LDFLAGS    = $(USE_NANO) $(USE_SEMIHOST) $(LDSCRIPT) $(GC) $(MAP) -ggdb
 
 # $(NAME)-$(CORE).axf: $(NAME).c $(STARTUP)
 # 	$(CC) $^ $(CFLAGS) $(LFLAGS) -o $@
@@ -40,11 +42,13 @@ LDFLAGS    = $(USE_NANO) $(USE_SEMIHOST) $(LDSCRIPTS) $(GC) $(MAP) -g3
 # Compilation Flags
 #FULLASSERT = -DUSE_FULL_ASSERT 
 
-CFLAGS += $(INCLUDES)
+CFLAGS += $(INCLUDES) -ggdb
 # Build executable 
 all: $(ELF)
 $(ELF) : $(OBJS) $(STARTUP)
 	$(CC) $(LDFLAGS) -o $@ $(OBJS) $(LDLIBS)
+	$(OBJDUMP) -S $(ELF) > $(NAME).list
+
 
 # compile and generate dependency info
 %.o: %.c
@@ -55,7 +59,7 @@ $(ELF) : $(OBJS) $(STARTUP)
 	$(CC) -c $(CFLAGS) $< -o $@
 
 clean:
-	rm -f $(OBJS) $(OBJS:.o=.d) $(ELF) startup_stm32f* $(CLEANOTHER) *.map
+	rm -f $(OBJS) $(OBJS:.o=.d) $(ELF) startup_stm32f* *.o *.d $(CLEANOTHER) *.map
 
 debug: $(ELF)
 	arm-none-eabi-gdbtui -ex "target remote localhost:4242" $(ELF)
