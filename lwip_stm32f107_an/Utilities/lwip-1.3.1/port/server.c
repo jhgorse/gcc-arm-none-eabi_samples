@@ -181,11 +181,11 @@ static err_t tcp_server_recv(void *arg, struct tcp_pcb *pcb, struct pbuf *p, err
 		break;
 	
 	case LED3:
-	    STM_EVAL_LEDToggle(LED3);
+	    STM_EVAL_LEDToggle(LED1|LED2);
 		break;
 	
 	case LED4:
-	    STM_EVAL_LEDToggle(LED4);
+	    STM_EVAL_LEDToggle(LED1);
 		break;
 	
 	default:

@@ -487,7 +487,7 @@ typedef struct  {
 /** 
   * @brief  For DP83848  
   */ 
-#define PHY_SR                           16     /*!< Tranceiver Status Register */
+#define PHY_SR                           16     /*!< Tranceiver Status Register */ //TODO Change this JOE
 
 /* The Speed and Duplex mask values change from a PHY to another so the user have to update
    this value depending on the used external PHY */

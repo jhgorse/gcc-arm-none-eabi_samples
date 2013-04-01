@@ -53,23 +53,24 @@
 /** @addtogroup STM3210C_EVAL_LED
   * @{
   */
-#define LEDn                        4
+#define LEDn                        2
 #define LED1_GPIO_PORT              GPIOD
 #define LED1_GPIO_CLK               RCC_APB2Periph_GPIOD  
-#define LED1_GPIO_PIN               GPIO_Pin_7
+#define LED1_GPIO_PIN               GPIO_Pin_14
   
 #define LED2_GPIO_PORT              GPIOD
 #define LED2_GPIO_CLK               RCC_APB2Periph_GPIOD  
-#define LED2_GPIO_PIN               GPIO_Pin_13
+#define LED2_GPIO_PIN               GPIO_Pin_115
   
-#define LED3_GPIO_PORT              GPIOD
+/*#define LED3_GPIO_PORT              GPIOD
 #define LED3_GPIO_CLK               RCC_APB2Periph_GPIOD  
 #define LED3_GPIO_PIN               GPIO_Pin_3
   
 #define LED4_GPIO_PORT              GPIOD
 #define LED4_GPIO_CLK               RCC_APB2Periph_GPIOD  
 #define LED4_GPIO_PIN               GPIO_Pin_4
-
+*/
+	 
 /**
   * @}
   */ 

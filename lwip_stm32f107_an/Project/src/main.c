@@ -24,7 +24,8 @@
 #include "main.h"
 #include "helloworld.h"
 #include "httpd.h"
-#include "tftpserver.h"
+  // We have no microsd
+//#include "tftpserver.h" 
 
 /* Private typedef -----------------------------------------------------------*/
 /* Private define ------------------------------------------------------------*/
@@ -61,7 +62,7 @@ int main(void)
   httpd_init();
 
   /* Initialize the TFTP server */
-  tftpd_init();
+//  tftpd_init();
 
   /* Infinite loop */
   while (1)

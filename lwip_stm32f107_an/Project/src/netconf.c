@@ -30,12 +30,13 @@
 #include <stdio.h>
 
 /* Private typedef -----------------------------------------------------------*/
+// We have no LCD. Kill everything that touches this.
 #define LCD_DELAY             3000
-#define KEY_DELAY 			  3000
+#define KEY_DELAY             3000
 #define LCD_TIMER_MSECS       250
 #define MAX_DHCP_TRIES        4
 #define SELECTED              1
-#define NOT_SELECTED		  (!SELECTED)
+#define NOT_SELECTED		      (!SELECTED)
 #define CLIENTMAC6            2
 //#define CLIENTMAC6            3
 //#define CLIENTMAC6            4
